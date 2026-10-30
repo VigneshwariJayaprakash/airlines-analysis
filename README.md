@@ -10,8 +10,6 @@ Interactive Tableau dashboards that analyze **3M+ U.S. domestic flights** from t
 | Delay & Operational Risk | Airline delay recovery, high-risk routes, time-of-day and monthly delays, distance vs. delay | [Open dashboard](https://public.tableau.com/app/profile/vigneshwari.jayaprakash/viz/U_S_DomesticFlightPerformanceandOperationalRiskAnalysis20192023/DelayDeepDive?publish=yes) |
 | Cancellation Deep Dive | Cancellation causes by year and a running total of cancellations | [Open dashboard](https://public.tableau.com/app/profile/vigneshwari.jayaprakash/viz/U_S_DomesticFlightPerformanceandOperationalRiskAnalysis20192023/CancellationAnalysis?publish=yes) |
 
-*Course project for IFT 533 (Data Visualization), Arizona State University. Team: Nikita Kumari, Vigneshwari Jayaprakash, Lochan Raju Shivaji, Vaishnavi Reddy Kunduri.*
-
 ---
 
 ## Key Findings
